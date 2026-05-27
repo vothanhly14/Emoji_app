@@ -1,4 +1,4 @@
 tensorflow
-gradio
+gradio==3.50.2
 numpy
 pillow
