@@ -1,2 +1,5 @@
 tensorflow
 pillow>=10.4.0
+matplotlib>=3.9.0
+pandas>=2.2.0
+numpy>=1.26.0
